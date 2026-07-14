@@ -15,5 +15,5 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-   <img src="https://img.shields.io/badge/GitHub-4169E1?style=flat&logo=github&logoColor=white" />
+   <img src="https://img.shields.io/badge/GitHub-4469E1?style=flat&logo=github&logoColor=white" />
 </p>
