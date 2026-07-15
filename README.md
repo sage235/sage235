@@ -1,6 +1,5 @@
  ### Hi there, I'm Sage 👋
 
-- 🔭 Currently building **RentHouse Platform** — a rental marketplace backend for the Rwandan market (Spring Boot, layered architecture)
 - 👀 Interested in **Data Science & BackEnd Dev**
 - 🌱 Currently deepening my **Software Engineering** skills
 - 💞️ Looking to collaborate on developer tools & backend projects
