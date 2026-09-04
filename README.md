@@ -56,40 +56,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,maven"/>
 </p>
 
----
-
-# 📊 GitHub Stats
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sage235&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sage235&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-</p>
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=sage235&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sage235&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sage235&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 👀 Profile Views
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=sage235&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
----
-
 ## 💡 Favorite Quote
 > **"Creativity + Code + Consistency = Success."**
 
