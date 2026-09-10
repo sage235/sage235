@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sage</h1>
-<h3 align="center">Software Engineering Student | Java & Spring Boot Developer | Backend Enthusiast</h3>
+<h3 align="center">Software Engineering | Java & Spring Boot Developer | Backend Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/sage235">
