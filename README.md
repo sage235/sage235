@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/sage235">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Software+Engineering+Student;Java+%7C+Spring+Boot+Developer;Backend+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Software+Engineering;Java+%7C+Spring+Boot+Developer;Backend+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
   </a>
 </p>
 
