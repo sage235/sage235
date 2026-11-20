@@ -10,7 +10,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Software Engineering Student
+- 🎓 Software Engineering
 - 💻 Passionate about **Backend Development**
 - 🌱 Currently learning **Spring Boot, REST APIs, PostgreSQL, Docker & Cloud**
 - 🚀 Building real-world projects
